@@ -1,0 +1,7 @@
+{
+  "name": "medhop-doc",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

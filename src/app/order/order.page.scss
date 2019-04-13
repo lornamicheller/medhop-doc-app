@@ -1,0 +1,75 @@
+.bg {
+  margin: 0;
+  padding: 0;
+  border-radius: 0;
+}
+
+.menu-btn {
+  position: absolute;
+  top: 75px;
+}
+
+.menu-icon {
+  color: white;
+}
+
+.logo {
+  position: absolute;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+  width: 100px;
+  height: 100px;
+  top: 40px;
+}
+
+.basic-services-card {
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.service-img {
+  width: 70px;
+  margin-top: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.question-1, .question-2, .question-3 {
+text-align: center;
+}
+
+.answer-1, .answer-2, .answer-3 {
+  text-align: center;
+}
+
+.wound-img {
+  width: 200px;
+  height: 200px;
+  object-fit: contain;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.payment {
+  text-align: center;
+  font-weight: 700;
+  color: #3e90c5
+}
+
+.login-btn {
+  width: 300px;
+  --border-radius: 25px;
+  font-size: 15px;
+  font-weight: 300;
+  color: #ffffff;
+  --background: #1e91d0;
+  --box-shadow: none;
+  --background-activated: grey;
+  margin-left: auto;
+  margin-right: auto;
+}
+
